@@ -1,17 +1,17 @@
 ---
 alias: Bombuku, Profesor Bombuku, Copperpot, Dean
 icon: NPC
-LugardeOrigen: -
-Localizacion: -
+LugardeOrigen: 
+Localizacion: 
 Pronom: He/Him
 Raza: Tanukin
 Fisio: Humanoide
 Profesion: Inventor
-Edad: -
-Estado: -
-Alineamiento: -
-Clase: -
-Rol: -
+Edad: 
+Estado: 
+Alineamiento: 
+Clase: 
+Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 banner_y: 0.496
 ---

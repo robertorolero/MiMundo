@@ -1,17 +1,17 @@
 ---
 alias: Ryoko
 icon: NPC
-LugardeOrigen:  -
-Localizacion: -  
+LugardeOrigen:  
+Localizacion:   
 Pronom: She/Her
 Raza: Kitsune
 Fisio: Humanoide
 Profesion: Historiadora
-Edad: -
-Estado: -
-Alineamiento: -
-Clase: -
-Rol: -
+Edad: 
+Estado: 
+Alineamiento: 
+Clase: 
+Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 ---
 

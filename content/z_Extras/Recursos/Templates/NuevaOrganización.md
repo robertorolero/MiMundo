@@ -2,9 +2,9 @@
 alias:
 icon: organizacion
 banner: "![[Pasted image 20250208201155.png]]"
-integrantes: -
-filosofia: -
-lider: -
+integrantes: 
+filosofia: 
+lider: 
 ---
 
 > [!infobox]

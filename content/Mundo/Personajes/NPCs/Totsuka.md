@@ -9,11 +9,11 @@ Pronom: She/Her
 Raza: Haniwa
 Fisio: Humanoide
 Profesion: Sanador
-Edad: -
-Estado: -
-Alineamiento: -
-Clase: -
-Rol: -
+Edad: 
+Estado: 
+Alineamiento: 
+Clase: 
+Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 ---
 

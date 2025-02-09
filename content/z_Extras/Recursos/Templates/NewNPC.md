@@ -1,18 +1,18 @@
 ---
 alias: pepe, botella, alcohol
 icon: NPC
-LugardeOrigen: -
-Localizacion: -
-Organizacion: -
+LugardeOrigen: 
+Localizacion: 
+Organizacion: 
 Pronom: They/Them
 Raza: Elfo
 Fisio: Humanoide
 Profesion: Noble
-Edad: -
-Estado: -
-Alineamiento: -
-Clase: -
-Rol: -
+Edad: 
+Estado: 
+Alineamiento: 
+Clase: 
+Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 ---
 

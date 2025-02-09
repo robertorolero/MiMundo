@@ -1,18 +1,18 @@
 ---
 alias: Chūji Iniciadora del Fuego, Alta Iniciadora del Fuego, Tizón.
 icon: NPC
-LugardeOrigen: -
-Localizacion: -
+LugardeOrigen: 
+Localizacion: 
 Organizacion: 
 Pronom: They/Them
 Raza: Nishikin
 Fisio: Humanoide
 Profesion: Noble
-Edad: -
-Estado: -
+Edad: 
+Estado:
 Alineamiento: Caótico Neutral
-Clase: -
-Rol: -
+Clase: 
+Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 ---
 
