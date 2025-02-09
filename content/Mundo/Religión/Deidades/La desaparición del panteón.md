@@ -1,0 +1,1 @@
+Hace ya tiempo que [[Los Dioses|los Dioses]] han desaparecido. Hay leyendas que hablan de su muerte, otras de su reclusión y las más desesperanzadoras de todas hablan de cómo simplemente nos abandonaron.
