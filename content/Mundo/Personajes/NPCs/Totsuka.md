@@ -17,38 +17,7 @@ Rol:
 banner: "![[Pasted image 20250207225334.png]]"
 ---
 ![[Pasted image 20250210154422.png|banner]]
-
-
- [!infobox]
- ###### 
-  |   |
- ---|---|
- 
- ![[Capitán Totsuka.png|340]]
- [[Capitán Totsuka.png|Mostrar a los jugadores]]
- ###### 
-  |   |
- ---|---|
- Fisionomía | `=this.fisio`|
- Raza | `=this.raza` |
- Profesión | `=this.profesion`|
- Pronombres | `=this.pronom` |
- Edad | `=this.edad` |
- Organización | [[Herederos del Kirin]] |
- Lugar de Origen | `=this.LugardeOrigen` |
- Localización Actual | `=this.Localizacion` |
- Estado | ***`=this.estado`*** |
- ###### Información de reglas
-  |   |
- ---|---|
- Alineamiento | `=this.alineamiento` |
- Clase | `=this.clase` |
- Rol del personaje | `=this.rol` |
- ###### 
-  |   |
- ---|---|
-
-## `=this.file.name`
+## [[Capitana Totsuka.png|Totsuka]]
 
 >[!quote] *"¡Cuidado! Oh, no te preocupes, tengo que reparar a estas juguetonas cositas a diario."*
 

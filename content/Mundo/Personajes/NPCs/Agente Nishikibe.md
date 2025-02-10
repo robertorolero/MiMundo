@@ -19,39 +19,11 @@ banner: "![[Pasted image 20250207225334.png]]"
 
 ![[Pasted image 20250210154422.png|banner]]
 
-> [!infobox]
-> ###### 
->  |   |
-> ---|---|
-> 
-> ![[Agente Nishikibe.png|300]]
-> [[Agente Nishikibe.png|Mostrar a los jugadores]]
-> ######
->  |   |
-> ---|---|
-> Fisionomía | `=this.fisio`|
-> Raza | `=this.raza` |
-> Profesión | `=this.profesion`|
-> Pronombres | `=this.pronom` |
-> Edad | `=this.edad` |
-> Organización | [[Flores Nacientes]] |
-> Lugar de Origen | `=this.LugardeOrigen` |
-> Localización Actual | `=this.Localizacion` |
-> Estado | ***`=this.estado`*** |
-> ###### Información de reglas
->  |   |
-> ---|---|
-> Alineamiento | `=this.alineamiento` |
-> Clase | `=this.clase` |
-> Rol del personaje | `=this.rol` |
-> ###### 
->  |   |
-> ---|---|
 
-## `=this.file.name`
+## [[Agente Nishikibe.png|Agente Nishikibe]]
 >[!quote] *"Saludos, confío en que podemos ayudarnos el uno al otro."*
 
-**Nombres:** Takaomi Nishikibe, Taka (para la familia), Nishikibe, Agente Nishikibe,
+**Nombres:** Takaomi Nishikibe, Taka (para la familia), Nishikibe, Agente Nishikibe.
 
 Nacido en una familia noble en decadencia, **Takaomi Nishikibe** asistió a la **Escuela de Shinobi**, una academia de magia especializada en sigilo e ilusión. Las crecientes deudas de su familia lo llevaron a involucrarse con el submundo de los reinos—ladrones, asesinos y cobradores de deudas—un mundo donde sus habilidades eran altamente valoradas. Aunque prosperó por un tiempo y alivió la carga financiera de su familia, fue capturado durante un intento de robo por un alto consejero del **[[Monedero de Seda]]**.
 

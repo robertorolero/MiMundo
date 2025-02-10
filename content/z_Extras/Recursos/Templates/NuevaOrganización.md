@@ -21,7 +21,7 @@ lider:
 > Filosofía | `=this.filosofia` |
 > Líder |`=this.lider` |
 > 
-> ![[Capitán Totsuka.png|cover hsmall]]
+> ![[Capitana Totsuka.png|cover hsmall]]
 > ######
 >   |   |
 > ---|---|

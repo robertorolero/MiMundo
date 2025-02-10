@@ -32,39 +32,6 @@ banner_y: 0.5
 ![[Pasted image 20250210153739.png|banner]]
 
 
-
-
-> [!infobox]
-> ###### 
->  |   |
-> ---|---|
-> 
-> ![[TabernaIcono.png|250]]
-> ######
->  |   |
-> ---|---|
-> Tipo | `=this.type` |
-> Tamaño | `=this.size` |
-> Región | `=this.region` |
-> ###### Política
->  |  |
-> ---|---|
-> Tipo de Gobierno | `=this.politics` |
-> Gobernador | `=this.leader` |
-> ######
->  |   |
-> ---|---|
-> Grupos y gremios | `=this.guildsgroups` |
-> ###### 
->  |   |
-> ---|---|
-
-
-
-
-
-## `=this.file.name`
-
 > [!quote] **Heliana, Directora del Gremio de Cazadores de Monstruos**
 > **¡Bienvenidos a la Taberna del Botín!**
 > 
