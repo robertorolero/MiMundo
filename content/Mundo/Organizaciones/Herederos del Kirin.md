@@ -6,7 +6,7 @@ nombre: Herederos
 filosofia: Ayudar a los demás
 lider: Capitán Totsuka
 ---
-
+![[Pasted image 20250210154324.png|Banner]]
 > [!infobox]
 > # `=this.file.name`
 > ![[KirinSimbolo.png|cover hsmall]]

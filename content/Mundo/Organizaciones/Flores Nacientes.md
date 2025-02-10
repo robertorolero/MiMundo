@@ -7,7 +7,7 @@ filosofia: Lucha de clases
 lider: Capitán Totsuka
 banner_y: 0.532
 ---
-
+![[Pasted image 20250210154324.png|Banner]]
 > [!infobox]
 > ###### 
 >  |   |

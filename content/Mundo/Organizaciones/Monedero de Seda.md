@@ -7,7 +7,7 @@ filosofia: Obtener poder
 lider: Agente Nishikibe
 banner_y: 0.5
 ---
-
+![[Pasted image 20250210154324.png|Banner]]
 > [!infobox]
 > ![[MonederoSimbolo.png|cover hsmall]]
 > ###### 

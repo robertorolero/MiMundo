@@ -14,7 +14,7 @@ Clase:
 Rol: 
 banner: "![[Pasted image 20250207225334.png]]"
 ---
-
+![[Pasted image 20250210154422.png|banner]]
 
 
 > [!infobox]

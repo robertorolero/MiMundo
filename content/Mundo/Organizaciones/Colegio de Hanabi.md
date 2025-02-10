@@ -6,7 +6,7 @@ nombre: Hanabikari
 filosofia: Progreso
 lider: Capitán Totsuka
 ---
-
+![[Pasted image 20250210154324.png|Banner]]
 > [!infobox]
 > # `=this.file.name`
 > ![[HanabiSimbolo.png|300]]
@@ -21,7 +21,6 @@ lider: Capitán Totsuka
 > ######
 >   |   |
 > ---|---|
-
 
 
 ## `=this.file.name`

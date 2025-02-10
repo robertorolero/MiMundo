@@ -7,7 +7,7 @@ filosofia: Documentar y ser testigos
 lider: Capitán Totsuka
 banner_y: 0.5
 ---
-
+![[Pasted image 20250210154324.png|Banner]]
 > [!infobox]
 > ![[CronistasEmblema.png|cover hsmall]] 
 > [[CronistasEmblema.png|Mostrar al grupo]]

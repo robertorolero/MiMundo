@@ -15,7 +15,7 @@ Rol:
 banner: "![[Pasted image 20250207225334.png]]"
 banner_y: 0.496
 ---
-
+![[Pasted image 20250210154422.png|banner]]
 
 
 > [!infobox]
