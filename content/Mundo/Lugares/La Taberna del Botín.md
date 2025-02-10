@@ -26,9 +26,10 @@ exports:
 imports:
  - Something else
 banner: "![[TabernaBanner.png]]"
+banner_y: 0.5
 ---
 
-
+![[Pasted image 20250210153739.png|banner]]
 
 
 

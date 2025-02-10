@@ -5,6 +5,7 @@ banner: "![[Pasted image 20250208201155.png]]"
 integrantes: 
 filosofia: Obtener poder
 lider: Agente Nishikibe
+banner_y: 0.5
 ---
 
 > [!infobox]
