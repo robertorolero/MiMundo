@@ -33,7 +33,7 @@ banner: "![[Pasted image 20250207225334.png]]"
 > Profesión | `=this.profesion`|
 > Pronombres | `=this.pronom` |
 > Edad | `=this.edad` |
-> Organización | [[Flores Nacientes]] |
+> Organización | [[El Loto Naciente]] |
 > Lugar de Origen | `=this.LugardeOrigen` |
 > Localización Actual | `=this.Localizacion` |
 > Estado | ***`=this.estado`*** |
@@ -63,7 +63,7 @@ banner: "![[Pasted image 20250207225334.png]]"
 
 #### Relaciones
 
-###### [[Flores Nacientes]]
+###### [[El Loto Naciente]]
 
 ###### [[Colegio de Hanabi]]
 

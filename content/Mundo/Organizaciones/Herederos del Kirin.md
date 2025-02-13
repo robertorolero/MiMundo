@@ -1,9 +1,12 @@
+---
+icon: organizacion
+---
 
 
 
 >  *“Las batallas más difíciles son aquellas sin violencia.”*
 
-![[KirinSimbolo.png|cover hsmall]]
+![[KirinSimbolo.png|300]]
 ##### Historia
 La cabeza de kirin que simboliza a los _Herederos_ es una visión reconfortante en el caos que sigue a cualquier desastre. Representa la promesa de comida, refugio y el apoyo de personas cuyo único motivo es reducir el sufrimiento. Más allá de eso, su arcanomecánica puede reconstruir infraestructuras perdidas, mejorando la calidad de vida incluso más que antes. Son una fuerza del bien: médicos e ingenieros que llevan ayuda más allá de las fronteras, voluntarios cuyo emblema dorado en forma de kirin es una luz en la oscuridad.
 #### Acciones Pasadas

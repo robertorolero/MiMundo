@@ -1,1 +1,0 @@
-La partida de [[Nymera]] por parte de los últimos [[Los Dioses|Dioses]] dio comienzo a la edad del Ocaso.

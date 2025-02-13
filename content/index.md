@@ -2,5 +2,15 @@
 title: Welcome to Quartz
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Contenidos por ahora:
+
+[[Los 3 Soles]]
+
+Organizaciones:
+ - [[Colegio de Hanabi]] 
+ - [[Herederos del Kirin]] 
+ - [[El Loto Naciente]] 
+ - [[Los Cronistas]] 
+ - [[Monedero de Seda]]  
+
+

@@ -1,5 +1,3 @@
-[[Aelun]]
-
  - Sol azul y más frío: [[Calyra]]
  - Sol naranja y más caliente: [[Solkan]]
  - Sol verde y de temperatura intermedia: [[Virion]]
@@ -51,41 +49,3 @@ El efecto de esta luz hace que los campos sean especialmente más prósperos que
 Cuando la luz de los 3 soles se combina se le conoce como la Conjunción. La luz resultante es una intensa luz blanca con matices iridiscentes en los bordes de las nubes o en los reflejos del agua. Los cielos y los reflejos son nacarados, con sutiles cambios de color dependiendo del ángulo de visión. Las sombras tienen un efecto similar, titilando en sus bordes haciendo un efecto prismático con la luz, descomponiéndola y siendo la superposición de éstas más clara en sus límites. Las sombras son suavemente multicolores.
 
 No muchas zonas de [[Nymera]] reciben esta luz a menudo, algunas en ningún momento del año. Las zonas que son bañadas en esta luz gozan de una prosperidad especial, ya sea por buena suerte, magia o capricho de [[Los Dioses]].
-
-
-# Eclipses - La intervención de [[La Luna Aelun|Aelun]]
-
-En [[Nymera]], los eclipses no son simples ocultaciones de los soles. Debido a los colores de los tres soles, los eclipses producen efectos visuales espectaculares: halos de colores, sombras multi-tonales y fenómenos ópticos extraños.
-
-### Eclipse simple - Un solo sol eclipsado por [[La Luna Aelun|Aelun]]
-
-Cuando se eclipsa uno de los soles los otros dos cobran más intensidad intentando desafiar a [[La Luna Aelun|Aelun]].
-
-### Eclipse doble - Dos soles  eclipsados por [[La Luna Aelun|Aelun]]
-
-Luz monocromática más ahogada que si solo uno de los soles estuviese alumbrando el lugar.
-
-### Eclipse total
-
-
-# Alineamientos - Los soles se alinean
-
-Los alineamientos solares, sean del tipo que sean, son extremadamente raros y tienen una profunda relación con la magia de [[Nymera]] y con sus mitos. Siempre que alguno de estos sucede, algo cambia en el mundo.
-
-## Alineamiento Lineal 
-
-Los cuerpos celestiales de [[Nymera]] no siguen órbitas perfectamente circulares. Las órbitas son más bien erráticas y ovaladas. Esto da lugar a alineamientos en distinto orden. Los acontecimientos de cada uno de los alineamientos dependerán de qué sol es el que queda más cercano a [[Nymera]] en el proceso. 
-
-[[Calyra]] dominante: 
-
-[[Solkan]] dominante: 
-
-[[Virion]] dominante: 
-
-## Alineamiento Triangular
-
-Los tres soles se alinean, a la misma altura, en algún ponto de [[Nymera]] formando un triángulo equilátero perfecto. Es un fenómeno extremadamente raro y muy asociado con la magia. Los patrones de luz y sombras que se crean son extraños y carecen de sentido. Las superficies parecen vibrar y cambiar de color según se observan.
-
-En el centro de este triángulo se encuentra la conjunción más perfecta de los tres soles. Ese momento y lugar es el origen de muchos de los cuentos y leyendas de  [[Nymera]], siendo de saber popular que, se forjan héroes bañados por esa luz. El cuento más famoso es [[El granjero ciego]].
-
-A este acontecimiento se le conoce como [[El Sello]]. 

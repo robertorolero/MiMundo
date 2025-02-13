@@ -67,11 +67,3 @@ folder Mundo/Organizaciones
 prompt true
 ```
 ^button-OrganizacionID
-
-[[Dragon Negro]]
-[[Eiron]]
-[[Barcelona]]
-[[Bola de Fuego]]
-
-
-^button-7asx
