@@ -2,6 +2,8 @@
 title: Welcome to Quartz
 ---
 
+ようこそ！
+
 Contenidos por ahora:
 
 [[Los 3 Soles]]
