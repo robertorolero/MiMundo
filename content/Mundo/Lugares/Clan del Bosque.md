@@ -17,6 +17,8 @@ También se encargan de llevar muchos de los negocios importantes de la ciudad. 
 La clase trabajadora es la que se encarga de que la ciudad realmente funcione para el deleite de la nobleza. Los sueldos no son buenos y una amplia mayoría de los ciudadanos están explotados para seguir alimentando la rueda incansable de eventos, banquetes y derroches de la alta nobleza. No hace falta decir que tanto el [[El Loto Naciente| Loto]] como el [[Monedero de Seda]] están muy relacionados con esta región. El [[Colegio de Hanabi]] también tiene emplazados muchas de sus escuelas y talleres en este territorio gracias a los mecenas de la ciudad.
 
 Los integrantes del clan del Bosque son los encargados de mantener los territorios funcionando. Minako tiene seleccionados a una serie de administradores en los que puede confiar. Son estos administradores los que se encargan de que todo vaya según lo previsto y castigan duramente a aquellos que se salen del redil.
+
+
 ![[ClanBosque1.png|center|500]]
 
 ## Clima y Geografía

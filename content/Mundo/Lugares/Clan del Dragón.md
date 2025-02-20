@@ -17,6 +17,8 @@ No obstante, no todas las personas que habitan los territorios del Clan del Drag
 Las razas predominantes son elfos y humanos. Sus rasgos físicos más característicos son el pelo blanco/plateado y su piel pálida o grisácea. Son gente alta y acostumbrada a los callos del trabajo. Pese a ser gente que no podría categorizarse exactamente como cariñosa y cálida, son muy hospitalarios con los forasteros. O al menos lo eran.
 
 Pese a la división moral en las gentes del archipiélago, los opositores no tienen mucho que hacer contra Sora y sus [[ColmilloDeSora.png|Colmillos]], lo único que les queda es agachar la cabeza y estar agradecidos por la bondad y justicia de la _daimyō_ al perdonar a los hombres de la región gracias al sacrificio de [[Miyuki.png|Miyuki]]. Miyuki argumentó que los hombres de la región no tenían nada que ver con los del continente, como así probaban sus costumbres y manerismos, y aceptó la oferta de Sora al sacrificarse por ellos siendo trasladada a La Jaula.
+
+
 ![[ClanDragon2.png|center|500]]
 
 ## Clima y Geografía
@@ -24,6 +26,8 @@ Pese a la división moral en las gentes del archipiélago, los opositores no tie
 El clima es gélido y húmedo. Es de los pocos territorios que solo cuentan con la luz de [[Calyra]]. Esto da inviernos largos y veranos cortos dadas las propiedades asociadas a la escarcha de Calyra. 
 
 Como la mayoría del territorio es el archipiélago y sus alrededores, muchas de las islas son totalmente inhabitables al tratarse de enorme pedazos de hielo. Las que no lo son es bastante probable que sean enormes y afilados conjuntos de acantilados y farallones.
+
+
 ![[ClanDragon3.png|center|550]]
 ## Fauna y Flora
 
