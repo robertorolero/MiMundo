@@ -9,6 +9,7 @@ icon: clan
 ## Habitantes
 
 ![[ClanDragon.png|center|600]]
+
 Los integrantes del Clan del Dragón comparten los ideales de su líder y obviamente están únicamente constituidas por mujeres. La mayoría de éstas son guerreras o tienen algún tipo de formación en el combate. A Sora siempre le ha gustado rodearse de fuerza y disciplina.
 
 No obstante, no todas las personas que habitan los territorios del Clan del Dragón son miembros de este. La población local previa al surgimiento del Ejército de la Liberación se componía casi en su totalidad de marineros y pescadores. Son gente alejada del continente y tienen costumbres propias pero a muchos de ellos les parece una atrocidad lo que vino después de la Guerra de Liberación. En estas islas también residen como prisioneros criminales de guerra y toda clase de civiles que han sido enviados a estas islas a modo de condena por sus actos. A la isla que hace la función de prisión la llaman [[La Jaula]].

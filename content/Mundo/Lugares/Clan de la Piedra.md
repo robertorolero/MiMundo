@@ -6,6 +6,10 @@ icon: clan
 > Cabeza del clan: [[Toru Ishikawa]]
 > ***Destacan por:*** Gente dura y resiliente. Expertos de la roca y la montaña.
 
+
+COOMING SOON :D
+
+
 ## Habitantes
 
 
