@@ -34,4 +34,6 @@ Como la mayoría del territorio es el archipiélago y sus alrededores, muchas de
 La zona noroccidental es una zona fría y la mayor parte del dominio de Sora es el archipiélago. Los mares de la zona son violentos y las zonas de tierra se forman por afiladas rocas y riscos. Los yokais de la zona son en su mayoría acuáticos o anfibios. Las criaturas terrestres que habitan estas tierras son sin duda fuertes si tienen que sobrevivir en estas condiciones donde no hay casi vida y las condiciones son extremas. Caza o se cazado.
 
 No obstante, estos yokais se mantienen alejados de los asentamientos del clan. La fuerza militar de la zona, [[ColmilloDeSora.png|Los Colmillos de Sora]], se encargan de ahuyentar y cazar a toda criatura viviente que se acerque. Al igual que su comandante, su fuerza militar es temible y está muy bien entrenada.
+
+
 ![[ClanDragon4.png|center|600]]
