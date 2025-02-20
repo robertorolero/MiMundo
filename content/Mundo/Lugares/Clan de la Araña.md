@@ -11,6 +11,8 @@ icon: clan
 Los habitantes de los territorios de la telaraña son los antiguos vasallos del _daimyō_ asesinado por [[Shigeko Miyashiro|Shigeko]]. La mayoría de éstos son campesinos y granjeros que estaban contentos con la administración del antiguo señor del territorio.  Los recursos llegaban de forma homogénea a todo el territorio y había ayudas sociales en caso de desastres naturales o apariciones de *kaijus*. Con la nueva administración la perspectiva rural ha cambiado por completo y los recursos se centran mucho más en los puntos neurálgicos que le interesan a la _daimyō_. La gente pasa más hambre, la vida se hace más dura y la semilla de la revolución que intenta plantar [[El Loto Naciente|el Loto]] es fuerte. Sin embargo, procuran no hacer ruido en sus cuchicheos y reuniones, pues cuando no se cuidan demasiado, los ojos y oídos de Shigeko les ganan un viaje al archipiélago del Dragón.
 
 El clan de la Araña no es realmente un clan al uso, sino más bien una extensa y silenciosa red de espionaje confeccionada por Shigeku. Asesinos en piel de paisano que interpretan sus papeles a la perfección a la espera de escuchar algo que interese a los oídos de su _daimyō_. Dada la propia naturaleza del clan, los integrantes no están solo en los territorios controlados por el clan del Bosque, sino también repartidos estratégicamente por todo Yamihara.
+
+
 ![[ClanAraña.png|center|500]]
 ## Clima y Geografía
 
