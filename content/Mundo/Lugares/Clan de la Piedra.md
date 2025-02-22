@@ -16,6 +16,6 @@ COOMING SOON :D
 ## Clima y Geografía
 
 
-## Flora y Fauna
+## Fauna y Flora
 
 ![[Pasted image 20250219162149.png]]![[Pasted image 20250219162334.png]]![[Pasted image 20250219162413.png]]
